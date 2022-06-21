@@ -54,7 +54,8 @@ public class MainActivity extends AppCompatActivity {
         nameStation=extras.getString("nomRadio");
         //pass the radio name in the textview
         nameRadio.setText(nameStation);
-        processPhoneListenerPermission();
+        //get the permission to the phone call
+        //processPhoneListenerPermission();
         broadcastReceiver = new BroadcastReceiver() {
             @Override
             public void onReceive(Context context, Intent intent) {
@@ -146,25 +147,17 @@ public class MainActivity extends AppCompatActivity {
         super.onActivityResult(requestCode, resultCode, intent);
     }
 
-    @Override
-    public void onRequestPermissionsResult(int requestCode, @NonNull String[] permissions, @NonNull int[] grantResults) {
-        if (requestCode == 121) {
-            if (!(grantResults[0] == PackageManager.PERMISSION_GRANTED)) {
-                Toast.makeText(getApplicationContext(), "Permission not granted.\nWe can't pause music when phone ringing.", Toast.LENGTH_LONG).show();
-            }
-        }
-        super.onRequestPermissionsResult(requestCode, permissions, grantResults);
-    }
+
 
     @Override
     public void onBackPressed() {
 
-                    if (getIsPlaying()) {
+                   /* if (getIsPlaying()) {
                         stop();
                     }
         Intent intent = new Intent(this, ListeRadio.class);
-        startActivity(intent);
-                   // System.exit(0);
+        startActivity(intent);*/
+                   System.exit(0);
 
     }
 
@@ -185,7 +178,7 @@ public class MainActivity extends AppCompatActivity {
         servicePlayIntent.putExtra("playStop", "play");
         startService(servicePlayIntent);
         playStop.setImageResource(R.drawable.ic_pause);
-        Toast.makeText(getApplicationContext(), "Loading ...", Toast.LENGTH_LONG).show();
+        Toast.makeText(getApplicationContext(), "Chargement en cours ...", Toast.LENGTH_LONG).show();
     }
 
     private void stop() {
@@ -194,7 +187,7 @@ public class MainActivity extends AppCompatActivity {
         serviceStopIntent.putExtra("playStop", "stop");
         startService(serviceStopIntent);
         playStop.setImageResource(R.drawable.ic_play);
-        Toast.makeText(getApplicationContext(), "Stop music...", Toast.LENGTH_LONG).show();
+
     }
 
     @Override
