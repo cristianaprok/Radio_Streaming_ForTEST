@@ -2622,6 +2622,7 @@ drawable notify_panel_notification_icon_bg
 drawable nrj_france
 drawable oui_fm
 drawable radio_classique
+drawable radioicone
 drawable rfm
 drawable rire_chansons
 drawable rmc

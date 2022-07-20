@@ -144,6 +144,10 @@
         "source": "com.ailyan.radio.app-main-32:/drawable/ic_note.xml"
     },
     {
+        "merged": "com.ailyan.radio.app-merged_res-30:/drawable_radioicone.png.flat",
+        "source": "com.ailyan.radio.app-main-32:/drawable/radioicone.png"
+    },
+    {
         "merged": "com.ailyan.radio.app-merged_res-30:/drawable_nrj_france.png.flat",
         "source": "com.ailyan.radio.app-main-32:/drawable/nrj_france.png"
     },
@@ -176,12 +180,12 @@
         "source": "com.ailyan.radio.app-main-32:/drawable/europe1.jpg"
     },
     {
-        "merged": "com.ailyan.radio.app-merged_res-30:/drawable_rtl.png.flat",
-        "source": "com.ailyan.radio.app-main-32:/drawable/rtl.png"
-    },
-    {
         "merged": "com.ailyan.radio.app-merged_res-30:/drawable_nostalgie_france.png.flat",
         "source": "com.ailyan.radio.app-main-32:/drawable/nostalgie_france.png"
+    },
+    {
+        "merged": "com.ailyan.radio.app-merged_res-30:/drawable_rtl.png.flat",
+        "source": "com.ailyan.radio.app-main-32:/drawable/rtl.png"
     },
     {
         "merged": "com.ailyan.radio.app-merged_res-30:/drawable_france_inter.png.flat",

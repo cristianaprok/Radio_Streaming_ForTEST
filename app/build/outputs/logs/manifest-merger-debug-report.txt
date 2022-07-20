@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml:2:1-48:12
-INJECTED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml:2:1-48:12
-INJECTED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml:2:1-48:12
-INJECTED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml:2:1-48:12
+ADDED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml:2:1-47:12
 MERGED from [androidx.databinding:databinding-adapters:7.3.0-alpha01] C:\Users\lenovo\.gradle\caches\transforms-3\83f04a38f9531ea0d54522d58fd78ad8\transformed\databinding-adapters-7.3.0-alpha01\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.databinding:databinding-runtime:7.3.0-alpha01] C:\Users\lenovo\.gradle\caches\transforms-3\611a382ea0934fedf3ef6faadd198188\transformed\databinding-runtime-7.3.0-alpha01\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.databinding:viewbinding:7.3.0-alpha01] C:\Users\lenovo\.gradle\caches\transforms-3\46720d18e020dd6e968bbca073bd256c\transformed\jetified-viewbinding-7.3.0-alpha01\AndroidManifest.xml:17:1-24:12
@@ -55,22 +55,22 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\lenovo\.gradle\c
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\6d911ab5f87d4cdf3758ea8fc0b96e0b\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\be8988003a08894ec4fe63b805aa3a53\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\c58d377e63a7389379d69b5cc0808d34\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml:2:1-48:12
-INJECTED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml:2:1-48:12
-INJECTED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml:2:1-47:12
 	package
 		ADDED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml:5:5-31
 		INJECTED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml:2:1-48:12
+		ADDED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml:2:1-47:12
 		INJECTED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml
 	xmlns:tools
 		ADDED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml:2:1-48:12
+		ADDED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml:2:1-47:12
 		INJECTED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml:2:11-69
@@ -97,7 +97,7 @@ ADDED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreaming
 	android:name
 		ADDED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml:12:22-74
 application
-ADDED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml:15:5-46:19
+ADDED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml:15:5-45:19
 MERGED from [com.google.android.material:material:1.6.1] C:\Users\lenovo\.gradle\caches\transforms-3\efb0ec9393960cd9452d505d4296cd35\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
 MERGED from [com.google.android.material:material:1.6.1] C:\Users\lenovo\.gradle\caches\transforms-3\efb0ec9393960cd9452d505d4296cd35\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\lenovo\.gradle\caches\transforms-3\bf54845b0ab75c335db42ebf3eeef9be\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
@@ -119,57 +119,55 @@ MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\lenovo\.gradle\cac
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.7.0] C:\Users\lenovo\.gradle\caches\transforms-3\290535f1c2980cc90435c7580259c88a\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml:21:9-35
+		ADDED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml:20:9-35
 	android:label
 		ADDED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml:19:9-41
 	tools:ignore
-		ADDED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml:24:9-48
-	android:roundIcon
-		ADDED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml:20:9-54
+		ADDED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml:23:9-48
 	android:icon
-		ADDED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml:18:9-43
+		ADDED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml:18:9-44
 	android:allowBackup
 		ADDED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml:17:9-35
 	android:theme
-		ADDED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml:22:9-40
+		ADDED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml:21:9-40
 	android:usesCleartextTraffic
-		ADDED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml:23:9-44
+		ADDED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml:22:9-44
 	android:name
 		ADDED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml:16:9-44
 activity#com.ailyan.radio.ListeRadio
-ADDED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml:25:9-32:36
+ADDED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml:24:9-31:36
 	android:exported
-		ADDED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml:27:13-36
+		ADDED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml:26:13-36
 	android:name
-		ADDED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml:26:13-55
+		ADDED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml:25:13-55
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml:28:9-32:25
+ADDED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml:27:9-31:25
 action#android.intent.action.MAIN
-ADDED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml:29:13-65
+ADDED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml:28:13-65
 	android:name
-		ADDED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml:29:21-62
+		ADDED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml:28:21-62
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml:31:13-73
+ADDED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml:30:13-73
 	android:name
-		ADDED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml:31:23-70
+		ADDED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml:30:23-70
 service#com.ailyan.radio.MyService
-ADDED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml:34:9-62
+ADDED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml:33:9-62
 	android:name
-		ADDED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml:34:18-59
+		ADDED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml:33:18-59
 uses-library#org.apache.http.legacy
-ADDED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml:36:9-38:40
+ADDED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml:35:9-37:40
 	android:required
-		ADDED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml:38:13-37
+		ADDED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml:37:13-37
 	android:name
-		ADDED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml:37:13-50
+		ADDED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml:36:13-50
 activity#com.ailyan.radio.MainActivity
-ADDED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml:40:9-45:20
+ADDED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml:39:9-44:20
 	android:screenOrientation
-		ADDED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml:42:13-49
+		ADDED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml:41:13-49
 	android:exported
-		ADDED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml:43:13-36
+		ADDED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml:42:13-36
 	android:name
-		ADDED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml:41:13-57
+		ADDED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml:40:13-57
 uses-sdk
 INJECTED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\lenovo\Desktop\radioApp\ExoPlayerStreamingAudioWithStreamingMetadataExample-master\app\src\main\AndroidManifest.xml
